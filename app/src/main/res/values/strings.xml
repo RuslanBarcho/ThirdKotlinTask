@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ThirdKotlinTask</string>
+
+    <string-array name="students">
+        <item>Семечкин Василий Сергеевич</item>
+        <item>Косилов Павел Сергеевич</item>
+        <item>Русаков Леонид Евгеньевич</item>
+        <item>Булкин Александр Павлович</item>
+        <item>Конденко Михаил Александрович</item>
+        <item>Свежий Максим Романович</item>
+        <item>Васильцова Ксения Васильевна</item>
+    </string-array>
+
+</resources>
